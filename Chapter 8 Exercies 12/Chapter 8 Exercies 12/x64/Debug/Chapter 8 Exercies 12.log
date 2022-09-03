@@ -1,0 +1,8 @@
+﻿  Exercies 12.cpp
+C:\C++ programm\Chapter 8 Exercies 12\Chapter 8 Exercies 12\Exercies 12.cpp(20,32): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\C++ programm\Chapter 8 Exercies 12\Chapter 8 Exercies 12\Exercies 12.cpp(30,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Chapter 8 Exercies 12.vcxproj -> C:\C++ programm\Chapter 8 Exercies 12\x64\Debug\Chapter 8 Exercies 12.exe

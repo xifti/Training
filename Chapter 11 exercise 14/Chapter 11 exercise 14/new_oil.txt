@@ -1,0 +1,7 @@
+The file consists of:
+Digit: 0
+Lower: 117
+Upper: 19
+Punct: 9
+Space: 32
+Cntrl: 0

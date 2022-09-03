@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\C++ programm\Chapter 8 Exercies 8\Chapter 8 Exercies 8\Source.cpp(33,16): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
+C:\C++ programm\Chapter 8 Exercies 8\Chapter 8 Exercies 8\Source.cpp(35,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\C++ programm\Chapter 8 Exercies 8\Chapter 8 Exercies 8\Source.cpp(55,8): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\C++ programm\Chapter 8 Exercies 8\Chapter 8 Exercies 8\Source.cpp(55,28): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\C++ programm\Chapter 8 Exercies 8\Chapter 8 Exercies 8\Source.cpp(55,38): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\C++ programm\Chapter 8 Exercies 8\Chapter 8 Exercies 8\Source.cpp(55,58): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\C++ programm\Chapter 8 Exercies 8\Chapter 8 Exercies 8\Source.cpp(55,83): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  Chapter 8 Exercies 8.vcxproj -> C:\C++ programm\Chapter 8 Exercies 8\x64\Debug\Chapter 8 Exercies 8.exe

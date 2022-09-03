@@ -1,0 +1,4 @@
+﻿  Exercies 2 (v1).cpp
+C:\C++ programm\Chapter 9 Exercies 2 (v1)\Chapter 9 Exercies 2 (v1)\Exercies 2 (v1).cpp(39,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++ programm\Chapter 9 Exercies 2 (v1)\Chapter 9 Exercies 2 (v1)\Exercies 2 (v1).cpp(51,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Chapter 9 Exercies 2 (v1).vcxproj -> C:\C++ programm\Chapter 9 Exercies 2 (v1)\x64\Debug\Chapter 9 Exercies 2 (v1).exe

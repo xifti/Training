@@ -1,0 +1,4 @@
+﻿  9.7.4.cpp
+C:\C++ programm\Chapter 9 Task 5\Chapter 9 Task 5\9.7.4.cpp(125): warning C4715: Date::true_or_no: значение возвращается не при всех путях выполнения
+C:\C++ programm\Chapter 9 Task 5\Chapter 9 Task 5\9.7.4.cpp(108): warning C4715: operator<<: значение возвращается не при всех путях выполнения
+  Chapter 9 Task 5.vcxproj -> C:\C++ programm\Chapter 9 Task 5\x64\Debug\Chapter 9 Task 5.exe

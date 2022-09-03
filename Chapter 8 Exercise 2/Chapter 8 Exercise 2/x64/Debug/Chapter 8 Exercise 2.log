@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\C++ programm\Chapter 8 Exercise 2\Chapter 8 Exercise 2\Source.cpp(56,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++ programm\Chapter 8 Exercise 2\Chapter 8 Exercise 2\Source.cpp(74,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++ programm\Chapter 8 Exercise 2\Chapter 8 Exercise 2\Source.cpp(92,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++ programm\Chapter 8 Exercise 2\Chapter 8 Exercise 2\Source.cpp(110,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Chapter 8 Exercise 2.vcxproj -> C:\C++ programm\Chapter 8 Exercise 2\x64\Debug\Chapter 8 Exercise 2.exe
